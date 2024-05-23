@@ -60,9 +60,6 @@ public class BinarySearch {
         key.insert(12);
         key.insert(10);
         key.insert(17);
-
-        
-
     }
     
 }
