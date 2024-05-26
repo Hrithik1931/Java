@@ -21,7 +21,6 @@ public class BinarySearch {
         root = null;
     }
 
-
     public Node insert(int data)
     {
         if(root == null)
