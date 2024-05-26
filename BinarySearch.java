@@ -62,3 +62,5 @@ public class BinarySearch {
     }
     
 }
+
+// Merging google into microsoft
